@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print("This is an error@#@")
+    print("This is a test@#@ fix errors")
